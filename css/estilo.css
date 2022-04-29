@@ -40,3 +40,12 @@ header nav ul li a {
   font-size: 1.2rem;
   color: var(--primary);
 }
+main {
+  min-height: 70vh;
+}
+footer {
+  background-color: var(--secondary);
+  height: 4rem;
+  display: flex;
+  align-items: center;
+}
