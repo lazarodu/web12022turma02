@@ -22,3 +22,8 @@ header {
 header picture img {
   height: 6rem;
 }
+header nav {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
